@@ -26,23 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/Jamuo/Jamuo/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
 </div>
 
-#  🙋 Hello
-<img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
-
-<!-- BLOG-POST-LIST:START -->
-- 🐻 I am Jamuo. 
-
-- 🎃 I am an independent development engineer.
-
-- 😺 Love computer science and IT internet career.
-  
-- 🚀 Peace and joy, fulfilling one's wishes.
-
-- 🌋 Welcome to visit.
-
-<!-- - 🌁   -->
-<!-- BLOG-POST-LIST:END -->
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />  
 
